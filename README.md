@@ -82,22 +82,3 @@
 <p align="center" style="animation: bounce 2s infinite;">
     ⭐️ Profilimi beğendiyseniz bir <strong>star</strong> bırakmayı unutmayın! ⭐️
 </p>
-
-<style>
-@keyframes bounce {
-    0%, 100% {
-        transform: translateY(0);
-    }
-    50% {
-        transform: translateY(-10px);
-    }
-}
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-</style>
