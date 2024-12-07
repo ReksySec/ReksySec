@@ -47,12 +47,12 @@
 <table align="center">
     <tr>
         <td align="center" width="50%">
-            <h3>🚀 <a href="https://github.com/ReksySec/Vulnerability-Scanner.py">Proje 1</a></h3>
-            <p>Projenin kısa açıklaması burada olabilir. 🌟</p>
+            <h3>🚀 <a href="https://github.com/ReksySec/Vulnerability-Scanner.py">Vulnnerability Scanner</a></h3>
+            <p>Python ile yazılmış hala geliştirilmekte olan bir zafiyet tarayıcı. 🌟</p>
         </td>
         <td align="center" width="50%">
-            <h3>🔥 <a href="https://github.com/ReksySec/Admin-Panel-Finder">Proje 2</a></h3>
-            <p>Bir başka müthiş projenin açıklaması.</p>
+            <h3>🔥 <a href="https://github.com/ReksySec/Admin-Panel-Finder">Admin Panel Finder</a></h3>
+            <p>Python İle Yazılmış Geniş Adminpath List'ine sahip admin panel bulucu.</p>
         </td>
     </tr>
 </table>
