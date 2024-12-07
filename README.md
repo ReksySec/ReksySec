@@ -48,7 +48,7 @@
     <tr>
         <td align="center" width="50%">
             <h3>🚀 <a href="https://github.com/ReksySec/Vulnerability-Scanner.py">Vulnnerability Scanner</a></h3>
-            <p>Python ile yazılmış hala geliştirilmekte olan bir zafiyet tarayıcı. 🌟</p>
+            <p>Python ile yazılmış hala geliştirilmekte olan bir zafiyet tarayıcı. </p>
         </td>
         <td align="center" width="50%">
             <h3>🔥 <a href="https://github.com/ReksySec/Admin-Panel-Finder">Admin Panel Finder</a></h3>
