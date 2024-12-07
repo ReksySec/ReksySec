@@ -73,9 +73,8 @@
 
 ## 🌐 Bana Ulaşın
 <p align="center">
-    📧 **E-posta:** <a href="mailto:reksysec@example.com">reksysec@example.com</a><br>
+    📧 **E-posta:** <a href="mailto:reksysec@example.com">reksysec@proton.me</a><br>
     💼 **LinkedIn:** <a href="https://linkedin.com/in/reksysec">linkedin.com/in/reksysec</a><br>
-    🐦 **Twitter:** <a href="https://twitter.com/ReksySec">@ReksySec</a>
 </p>
 
 ---
