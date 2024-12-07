@@ -1,6 +1,10 @@
-<h1 align="center">👋 Merhaba, ben ReksySec</h1>
+<h1 align="center">
+    <span style="display: inline-block; animation: bounce 2s infinite;">👋</span> 
+    Merhaba, ben <strong>ReksySec</strong>
+</h1>
+
 <p align="center">
-    🌟 Siber güvenlik tutkunu | 🖥️ Geliştirici | 📚 Sürekli öğrenen
+    <em>"Güvenlik ve yazılım benim alanım!"</em>  
 </p>
 
 <p align="center">
@@ -14,36 +18,44 @@
 
 ---
 
-## 🚀 Hakkımda
-Merhaba! Ben **ReksySec**, yazılım geliştirme ve siber güvenlik alanlarında derin bir tutkuya sahibim. **Açık kaynak** projelerle topluma katkıda bulunmayı seviyorum ve sürekli olarak yeni şeyler öğrenerek becerilerimi geliştirmeye çalışıyorum. 💡
+## 🌌 Hakkımda
+<h2 style="animation: fadeIn 2s;">
+    <span style="color: #FF5733;">Merhaba!</span> Ben <strong>ReksySec</strong>, teknoloji dünyasına olan tutkumla öğreniyorum. 
+    Siber güvenlik ve yazılım geliştirme alanlarında çalışıyorum ve bilgimi açık kaynak projeleriyle paylaşıyorum.
+</h2>
 
-### 🌟 İlgi Alanlarım:
-- 🔐 **Siber Güvenlik:** Sistem güvenliği, ağ güvenliği ve saldırı tespiti
-- 🖥️ **Programlama:** Python, JavaScript, ve daha fazlası
-- 🌐 **Web Teknolojileri:** Frontend ve Backend geliştirme
-- 🤖 **Yapay Zeka:** Veri analizi ve otomasyon
+### 🚀 İlgi Alanlarım
+- 🔐 **Siber Güvenlik:** Sistem koruması, etik hacking ve savunma mekanizmaları
+- 🤖 **Yapay Zeka:** otomasyon araçları geliştirme
+- 💡 **Problem Çözme:** Yazılım projelerinde yaratıcı fikirler ve debug üretme
+- 🛠️ **Teknoloji:** Python, JavaScript ve modern framework'ler
 
 ---
 
 ## 📊 GitHub İstatistiklerim
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ReksySec&show_icons=true&theme=radical" alt="ReksySec GitHub İstatistikleri" />
-</p>
-<p align="center">
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReksySec&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReksySec&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
-</p>
+</div>
 
 ---
 
-## 🌐 Bana Ulaşın
-Bana ulaşmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz:
-
-- 📫 **E-posta:** [reksysec@example.com](mailto:reksysec@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/reksysec](https://linkedin.com/in/reksysec)
-- 🐦 **Twitter:** [@ReksySec](https://twitter.com/ReksySec)
+## 💻 Projelerim
+<table align="center">
+    <tr>
+        <td align="center" width="50%">
+            <h3>🚀 <a href="https://github.com/ReksySec/Vulnerability-Scanner.py">Proje 1</a></h3>
+            <p>Projenin kısa açıklaması burada olabilir. 🌟</p>
+        </td>
+        <td align="center" width="50%">
+            <h3>🔥 <a href="https://github.com/ReksySec/Admin-Panel-Finder">Proje 2</a></h3>
+            <p>Bir başka müthiş projenin açıklaması.</p>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -53,22 +65,40 @@ Bana ulaşmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz:
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
 </p>
 
 ---
 
-## 📂 Projelerim
-Bir göz atmaya değer projelerim:
-
-- 🔥 **[Project Name](https://github.com/ReksySec/Project-Name):** Projenin kısa açıklaması burada yer alabilir.
-- 🌟 **[Başka Proje](https://github.com/ReksySec/Baska-Proje):** Bu projeyi neden önemli bulduğunuz burada açıklanabilir.
-
-Daha fazla görmek için [GitHub Repositories](https://github.com/ReksySec?tab=repositories) sayfamı ziyaret edin! 🎯
+## 🌐 Bana Ulaşın
+<p align="center">
+    📧 **E-posta:** <a href="mailto:reksysec@example.com">reksysec@example.com</a><br>
+    💼 **LinkedIn:** <a href="https://linkedin.com/in/reksysec">linkedin.com/in/reksysec</a><br>
+    🐦 **Twitter:** <a href="https://twitter.com/ReksySec">@ReksySec</a>
+</p>
 
 ---
 
-<p align="center">
+<p align="center" style="animation: bounce 2s infinite;">
     ⭐️ Profilimi beğendiyseniz bir <strong>star</strong> bırakmayı unutmayın! ⭐️
 </p>
+
+<style>
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+</style>
