@@ -36,7 +36,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ReksySec&show_icons=true&theme=radical" alt="ReksySec GitHub İstatistikleri" />
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReksySec&theme=radical" alt="GitHub Streak" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReksySec&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
 </div>
